@@ -2,7 +2,7 @@
 #include"ranked-abb.cpp"
 
 int main(){
-    ABB arbol; 
+    RankedABB arbol; 
     if (arbol.raiz == NULL){
         std::cout<<"raiz creada"<<std::endl;
     }
